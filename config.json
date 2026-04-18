@@ -1,0 +1,7 @@
+{
+    "version": 7,
+    "entry_package": "sources_by_bxb100",
+    "download_url": "https://raw.githubusercontent.com/Dark-Tide/-/refs/heads/main/sources_by_bxb100.jar",
+    "update_msg": "夸克网盘新增源的配置，可自定义目录名和缓存的开关(现缓存默认开启)",
+    "support_url": ""
+}
